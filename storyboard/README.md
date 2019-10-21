@@ -64,22 +64,22 @@ Disadvantages:-
 
 Here, we are using the second pathway, because it is more attractive and also give students the knowledge of the machinery. This would be sufficient for to students to know the working of machine and relate the theoretical concepts with their experimental validation. 
 
-##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
+#### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 Pre- assignment: Pre experiment quiz test is focus on the basic knowledge of the user about the topic. It gives a brief idea to user about the experiment and the working principles.
 
 Post assignment: Post experiment assignment is designed in such a way that is test the understanding of user to learn the concepts shown. The quizzes is consists of question of the levels easy, medium and logical and critical thinking based, where the developer easily examine user level
 
-##### 2.5 Allow pitfalls:
+#### 2.5 Allow pitfalls:
 
 1)	The student could be confused between the compressive and the tensile springs.
 2)	The student could be confused between the relation between the load applied and the deflection. After the experiment he will understand that there is a linear relationship between the applied load and deflection.
 
-##### 2.6 Conclusion:
+#### 2.6 Conclusion:
 
 By doing this experiment we had studied the behavior of helical steel spring in different load conditions. We had also calculated maximum shear stress and maximum torque in of the spring by doing this experiment virtually.
 
-##### 2.7 Equations/formulas: NA
+#### 2.7 Equations/formulas: NA
  1) Stiffness of spring (k): --
        k=w/δ
        Where k = spring stiffness (kg/mm)
@@ -97,23 +97,12 @@ Fs = 16.t/πd3   kg/mm2
  t=w.r   kg-mm
            r=D/2 mm
 5) Deflection (δ) :--
-      δ=64wr3n/Gdd3
-      δ=64w.(D/2)3n/Gdd3
-      δ=64wD3n/8Gdd3
-      δ=8wD3n/Gdd3
-      δ=8.wc3n/Gd4
-      δ=8wD3n/Gd4  mm
+      δ=8wD3n/Gd4mm
 
-### 3. Flowchart 4
+### 3. Flowchart 
 
 
 ### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
 
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
+
