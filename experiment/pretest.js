@@ -90,52 +90,59 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "1.	Which type of springs have only active coils?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Helical compression springs",                  ///// Write the option 1 inside double quotes
+        b: "Helical tension springs",                  ///// Write the option 2 inside double quotes
+        c: "Both a. and b.",                  ///// Write the option 3 inside double quotes
+        d: "None of the above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "2.	Solid length for helical compression springs having square and ground ends is given as _________.",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "(n + 2)d",                  ///// Write the option 1 inside double quotes
+        b: "(n + 3)d",                  ///// Write the option 2 inside double quotes
+        c: "(n + 4)d",                  ///// Write the option 3 inside double quotes
+        d: "None of the above"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
 
 
-    /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
-        till closing curly braces comma ( }, )
-
-        and paste it below the curly braces comma ( below correct answer }, ) of above 
-        question
-
-    Copy below section
-
-    {
-      question: "This is question n?",
+      {
+      question: "3.	Which law is used in the movement of a helical spring?",
       answers: {
-        a: "Option 1",
-        b: "Option 2",
-        c: "Option 3",
-        d: "Option 4"
+        a: "Gravitational Law",
+        b: "Pascal’s Law",
+        c: "Newton’s Law",
+        d: "Hooke’s Law"
       },
-      correctAnswer: "c"
+      correctAnswer: "d"
     },
-
-    Copy above section
-
-    */
-
+    {
+      question: "4.	Which of the following is an application of helical springs",
+      answers: {
+        a: "Automatic door closers",
+        b: "Mattress springs",
+        c: "Car suspension",
+        d: "All of the above"
+      },
+      correctAnswer: "d"
+    }, 
+    {
+      question: "5.	Give the condition at which a spring obeys Hooke’s law.",
+      answers: {
+        a: "The extension of the spring should equal to the elastic limit",
+        b: "The extension of the spring should be within the elastic limit",
+        c: "The extension of the spring should be greater than the elastic limit",
+        d: "The extension of the spring should be less than the elastic limit"
+      },
+      correctAnswer: "b"
+    },
 
 
 
