@@ -1,3 +1,3 @@
-## <!-- Universal Spring Testing Machine -->
+## Universal Spring Testing Machine 
 
     
