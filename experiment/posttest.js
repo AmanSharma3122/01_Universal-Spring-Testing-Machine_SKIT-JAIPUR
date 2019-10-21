@@ -90,55 +90,57 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "1.	If spring index=2.5, what can be concluded about stresses in the wire?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "They are high",                  ///// Write the option 1 inside double quotes
+        b: "They are negligible",                  ///// Write the option 2 inside double quotes
+        c: "They are moderate",                  ///// Write the option 3 inside double quotes
+        d: "Cannot be determined"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "2.	Find the shear stress in the spring wire used to design a helical compression spring if a load of 1200N is applied on the spring. Spring index is 6, and wire diameter 7mm.",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "452.2N/mm²",                  ///// Write the option 1 inside double quotes
+        b: "468.6N/mm²",                  ///// Write the option 2 inside double quotes
+        c: "512.2N/mm²",                  ///// Write the option 3 inside double quotes
+        d: "None of the listed"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
-
-
-    /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
-        till closing curly braces comma ( }, )
-
-        and paste it below the curly braces comma ( below correct answer }, ) of above 
-        question
-
-    Copy below section*/
-
-    {
-      question: "This is question n?",
+    		 {
+      question: "3.	Find the mean coil diameter of a helical compression spring if a load of 1200N is applied on the spring. Spring index is 6, and wire diameter 7mm.",
       answers: {
-        a: "Option 1",
-        b: "Option 2",
-        c: "Option 3",
-        d: "Option 4"
+        a: "7/6mm",
+        b: "42mm",
+        c: "1200×6/7 mm",
+        d: "None of the listed"
+      },
+      correctAnswer: "b"
+    }, {
+      question: "4.	Find the extension produced by a helical spring of spring constant 30N/m, when a mass of 500g is attached to its end?",
+      answers: {
+        a: "0.016 m",
+        b: "1.6 m",
+        c: "0.16 m",
+        d: "None of these"
       },
       correctAnswer: "c"
-    },
+    },		 {
+      question: "5.	Determine number of coils in a helical compression spring, if modulus of rigidity is 80 Gpa and spring stiffness is 50 N/ mm. Assume wire diameter and spring index as 8 mm and 5 respectively",
+      answers: {
+        a: "11.8 turns",
+        b: "12.8 turns",
+        c: "13.3 turns",
+        d: "None of the above"
+      },
+      correctAnswer: "c"
+    },					                  ///// this line
 
-    Copy above section
 
-    */
-
-
-
-
+   
   ];
 
 
